@@ -1,21 +1,24 @@
-import axios from 'axios';
-
 // 데이터 통신 로직 분리
 export default class Youtube {
   // axios 인스턴스
-  constructor() {
-    this.httpClient = axios.create({
-      baseURL: 'https://www.googleapis.com/youtube/v3',
-      params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
-    });
+  constructor(apiClient) {
+    this.apiClient = apiClient; // 외부로부터 주입 받은 클라이언트
   }
   async search(keyword) {
     return keyword ? this.#searchByKeyword(keyword) : this.#mostPoploar();
   }
 
+  async channelImageURL(id) {
+    this.httpClient //
+      .channels({ params: { part: 'snippet', id } })
+      .then(response => response.data.items[0].snippet.thumbnails.default.url);
+  }
+
   async #searchByKeyword(keyword) {
-    return this.httpClient //
-      .get('search', {
+    // 전달 받은 클라이언트의 search 함수 호출
+    return this.apiClient
+      .search({
+        // 필요한 params에 대한 정보를 담은 객체
         params: {
           part: 'snippet',
           maxResults: 25,
@@ -29,8 +32,8 @@ export default class Youtube {
   }
 
   async #mostPoploar() {
-    return this.httpClient //
-      .get('videos', {
+    return this.apiClient
+      .videos({
         params: {
           part: 'snippet',
           maxResults: 25,

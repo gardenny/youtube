@@ -1,11 +1,14 @@
 import { createContext, useContext } from 'react';
-import FakeYoutube from '../api/fakeYoutube';
-// import Youtube from '../api/youtube';
+
+import Youtube from '../api/youtube';
+import FakeYoutubeClient from '../api/fakeYoutubeClient';
+// import YoutubeClient from '../api/youtubeClient';
 
 export const YoutubeApiContext = createContext();
 
 // 네트워크 통신 로직 스위칭
-const youtube = new FakeYoutube(); // new Youtube();
+const client = new FakeYoutubeClient(); // new YoutubeClient();
+const youtube = new Youtube(client);
 
 // youtube 인스턴스 제공
 export function YoutubeApiProvider({ children }) {
