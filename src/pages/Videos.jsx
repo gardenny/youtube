@@ -18,7 +18,7 @@ export default function Videos() {
   });
 
   return (
-    <section className="flex p-3">
+    <section className="flex p-4">
       <Guidebar />
       {isLoading && <p>Loading...</p>}
       {error && <p>Error ❌</p>}
