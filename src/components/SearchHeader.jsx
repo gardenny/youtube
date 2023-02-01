@@ -19,7 +19,7 @@ export default function SearchHeader() {
   useEffect(() => setText(keyword || ''), [keyword]);
 
   return (
-    <header className="w-full flex items-center p-4 border-b border-zinc-400 mb-4">
+    <header className="sticky top-0 z-10 w-full flex items-center bg-black p-4">
       <Link to={'/'} className="flex items-center">
         <Logo width="128" height="26" fill="black" />
       </Link>

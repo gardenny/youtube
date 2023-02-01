@@ -4,7 +4,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        brand: '#ff0000',
+        black: '#0f0f0f',
+        white: '#f1f1f1',
+        light: 'rgba(255, 255, 255, 0.1)',
+        grey: '#aaaaaa',
+      },
+      fontFamily: {
+        noto: ['Noto Sans KR', 'sans-serif'],
       },
     },
   },

@@ -1,15 +1,26 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
+
 import formatAgo from '../util/date';
 
-export default function VideoCard({ video }) {
+export default function VideoCard({ video, type }) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
+
+  const navigate = useNavigate();
+  const isList = type === 'list';
+
   return (
-    <li>
-      <img className="w-full rounded-xl" src={thumbnails.medium.url} alt={title} />
-      <div>
-        <p className="font-semibold my-2 line-clamp-2">{title}</p>
-        <p className="text-sm opacity-80">{channelTitle}</p>
-        <p className="text-sm opacity-80">{formatAgo(publishedAt, 'ko')}</p>
+    <li
+      className={`${isList ? 'flex gap-1 m-2' : ''} cursor-pointer`}
+      onClick={() => navigate(`/videos/watch/${video.id}`, { state: { video } })}
+    >
+      <img className={`${isList ? 'w-60 mr-2' : 'w-full'} rounded-xl`} src={thumbnails.medium.url} alt={title} />
+      <div className="flex">
+        <div className="pr-6">
+          <p className="font-semibold mt-3 mb-1.5 line-clamp-2 leading-snug">{title}</p>
+          <p className="text-sm text-grey">{channelTitle}</p>
+          <p className="text-sm text-grey">{formatAgo(publishedAt, 'ko')}</p>
+        </div>
       </div>
     </li>
   );
