@@ -9,10 +9,11 @@ import locker from '../icons/locker.svg';
 import history from '../icons/history.svg';
 import videos from '../icons/videos.svg';
 import later from '../icons/later.svg';
+import offline from '../icons/offline.svg';
 import like from '../icons/like.svg';
+import more from '../icons/more.svg';
 import github from '../icons/github.svg';
 import notion from '../icons/notion.svg';
-import { Link } from 'react-router-dom';
 
 const topGuide = [
   { icon: home, text: '홈' },
@@ -26,7 +27,9 @@ const middleGuide = [
   { icon: history, text: '시청 기록' },
   { icon: videos, text: '내 동영상' },
   { icon: later, text: '나중에 볼 동영상' },
+  { icon: offline, text: '오프라인 저장 동영상' },
   { icon: like, text: '좋아요 표시한 동영상' },
+  { icon: more, text: '더보기' },
 ];
 const bottomGuide = [
   { icon: github, text: 'JOne Github', href: 'https://github.com/IMJOne' },

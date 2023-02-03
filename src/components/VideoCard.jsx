@@ -11,15 +11,15 @@ export default function VideoCard({ video, type }) {
 
   return (
     <li
-      className={`${isList ? 'flex gap-1 m-2' : ''} cursor-pointer`}
+      className={`${isList ? 'flex gap-x-2' : ''} cursor-pointer`}
       onClick={() => navigate(`/videos/watch/${video.id}`, { state: { video } })}
     >
-      <img className={`${isList ? 'w-60 mr-2' : 'w-full'} rounded-xl`} src={thumbnails.medium.url} alt={title} />
+      <img className={`${isList ? 'w-48 mb-2' : 'w-full mb-3'} rounded-xl`} src={thumbnails.medium.url} alt={title} />
       <div className="flex">
         <div className="pr-6">
-          <p className="font-semibold mt-3 mb-1.5 line-clamp-2 leading-snug">{title}</p>
-          <p className="text-sm text-grey">{channelTitle}</p>
-          <p className="text-sm text-grey">{formatAgo(publishedAt, 'ko')}</p>
+          <p className={`font-medium mb-1.5 line-clamp-2 leading-snug ${isList && 'text-sm'}`}>{title}</p>
+          <p className={`text-grey ${isList ? 'text-xs ' : 'text-sm'}`}>{channelTitle}</p>
+          <p className={`text-grey ${isList ? 'text-xs ' : 'text-sm'}`}>{formatAgo(publishedAt, 'ko')}</p>
         </div>
       </div>
     </li>

@@ -10,10 +10,10 @@ export default function VideoDetail() {
     state: { video },
   } = useLocation();
   const { title, channelId, channelTitle, description } = video.snippet;
-  const { viewCount } = video.statistics;
+  // const { viewCount } = video.statistics;
 
   return (
-    <section className="flex flex-col lg:flex-row">
+    <section className="flex flex-col lg:flex-row gap-6 p-6 2xl:px-24">
       <article className="basis-4/6">
         <iframe
           id="player"
@@ -24,11 +24,11 @@ export default function VideoDetail() {
           frameBorder="0"
           title={title}
         />
-        <div className="p-8">
+        <div className="mt-3">
           <h2 className="text-xl font-bold">{title}</h2>
-          <p>{viewCount}회</p>
+          {/* <p>{viewCount}회</p> */}
           <ChannelInfo id={channelId} name={channelTitle} />
-          <pre className="whitespace-pre-wrap">{description}</pre>
+          <pre className="bg-neutral-800 p-3 rounded-xl whitespace-pre-wrap text-sm">{description}</pre>
         </div>
       </article>
       <section className="basis-2/6">
