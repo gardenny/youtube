@@ -19,6 +19,10 @@ export default class YoutubeClient {
     return this.httpClient.get('videos', params);
   }
 
+  async comments(params) {
+    return this.httpClient.get('commentThreads', params);
+  }
+
   async channels(params) {
     return this.httpClient.get('channels', params);
   }

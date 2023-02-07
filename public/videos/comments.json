@@ -1,0 +1,1155 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "PCcXakyx00b77tNut0JVFCTxRjc",
+  "nextPageToken": "QURTSl9pMUV6NVBNMVJUcjBGcTVPX0xCcGxRY1B3V0VUNElHVFNRZkI5S3gxX1c1MVM4NlJQaHlBS3hucGtXRU41Y2tWX09NYldac3pSbU16TlFMWU13NDd0QWhFeklOakZGNUxEaEtUTmQyNFh3ZVZPTmxTcVU3b3ltdXFCY0xGdjhhUVhzUWpQMWJkS1dtaVFtOWJDekxweXNZS1NkQTZTLU91QUppcG14Q0ZvSDUyNzRuelZfOU5rZ1lZaVJBOHFDU3l2bGNsQlg5UWQ3WWdmTnl0cVRkVjV5SFRnY000eDZkVDA5OWZPejNYT3RIbWQzRkoyVkg0THVuMzVsY25DcWNKbTYzOTlxS2dHWno4dDRkZjhyVWFtcE9lemJqdUYtSW9mRmIwN1ZMQWZoVFV2MzllcEtWX18wa1NrdVdUQlJm",
+  "pageInfo": {
+    "totalResults": 20,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "t8ltlEERqeGtzI2Z5bBlCTG2MzM",
+      "id": "UgwPdA7gRH37EGZVOix4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KKMfoV6urR5dPkJjFETM5Ng5Ev8",
+          "id": "UgwPdA7gRH37EGZVOix4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "really can&#39;t get enough of this new era 🤩",
+            "textOriginal": "really can't get enough of this new era 🤩",
+            "authorDisplayName": "YouTube",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/584JjRp5QMuKbyduM_2k5RlXFqHJtQ0qLIPZpwbUjMJmgzZngHcam5JMuZQxyzGMV5ljwJRl0Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBR8-60-B28hp2BmDPdntcQ",
+            "authorChannelId": {
+              "value": "UCBR8-60-B28hp2BmDPdntcQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6637,
+            "publishedAt": "2023-01-31T21:20:02Z",
+            "updatedAt": "2023-01-31T21:20:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 304,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "LKceJS-Z-qlcI8AStXGt2N4nlr8",
+            "id": "UgwPdA7gRH37EGZVOix4AaABAg.9lZYY5hwBjq9lnsU2NItfz",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "neither can we! the singing, the choreo, the visuals, the swag! nct 127 be giving us EVERYTHING every comeback!",
+              "textOriginal": "neither can we! the singing, the choreo, the visuals, the swag! nct 127 be giving us EVERYTHING every comeback!",
+              "parentId": "UgwPdA7gRH37EGZVOix4AaABAg",
+              "authorDisplayName": "peaches127",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/yr3YkkZ-HD9pxCsWdRdkaoHYF7glzlGg7KeN58S8d_W5RXZlZY-dg6jRX7WRM_RKw55v-u6oZuU=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCK2qzIC415h3-QYn5VHp0ng",
+              "authorChannelId": {
+                "value": "UCK2qzIC415h3-QYn5VHp0ng"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T20:11:36Z",
+              "updatedAt": "2023-02-06T20:11:36Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "DXgzQfuyIfrVxMsij1A8N0lyePA",
+            "id": "UgwPdA7gRH37EGZVOix4AaABAg.9lZYY5hwBjq9lnlk3JCa0j",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "🤯🤯🤯🤯🤯",
+              "textOriginal": "🤯🤯🤯🤯🤯",
+              "parentId": "UgwPdA7gRH37EGZVOix4AaABAg",
+              "authorDisplayName": "yamsgero",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/111q4bhXPRCtbKD_C6ayoX39Y3ffX_J9vmRAzDUsi2pRGG5Uk8Qs-3syZnNdydIle8dUwYQ1yA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCLOXOeMJuYYjF9tpj0FdFEw",
+              "authorChannelId": {
+                "value": "UCLOXOeMJuYYjF9tpj0FdFEw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T19:12:45Z",
+              "updatedAt": "2023-02-06T19:12:45Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "yBnJ3Iyog7DINic_lPJuI63NWcU",
+            "id": "UgwPdA7gRH37EGZVOix4AaABAg.9lZYY5hwBjq9lnaDyPI4E4",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "66",
+              "textOriginal": "66",
+              "parentId": "UgwPdA7gRH37EGZVOix4AaABAg",
+              "authorDisplayName": "연수동파이터",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUhRK0EGDBFi6CWMhpCKiElkRJGpeSqWmAxjg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCzb_f-CE0w84URDcAKVjMTQ",
+              "authorChannelId": {
+                "value": "UCzb_f-CE0w84URDcAKVjMTQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T17:32:07Z",
+              "updatedAt": "2023-02-06T17:32:07Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "6ahUTV9ZdgrsAkzpHrmTiWfZ9eE",
+            "id": "UgwPdA7gRH37EGZVOix4AaABAg.9lZYY5hwBjq9lnaD7nBlLj",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "6",
+              "textOriginal": "6",
+              "parentId": "UgwPdA7gRH37EGZVOix4AaABAg",
+              "authorDisplayName": "연수동파이터",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUhRK0EGDBFi6CWMhpCKiElkRJGpeSqWmAxjg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCzb_f-CE0w84URDcAKVjMTQ",
+              "authorChannelId": {
+                "value": "UCzb_f-CE0w84URDcAKVjMTQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T17:32:00Z",
+              "updatedAt": "2023-02-06T17:32:00Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "RWYRCZiwR5Le16iQDVv8uOnL7hg",
+            "id": "UgwPdA7gRH37EGZVOix4AaABAg.9lZYY5hwBjq9lnaC-EtdcO",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "6666",
+              "textOriginal": "6666",
+              "parentId": "UgwPdA7gRH37EGZVOix4AaABAg",
+              "authorDisplayName": "연수동파이터",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUhRK0EGDBFi6CWMhpCKiElkRJGpeSqWmAxjg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCzb_f-CE0w84URDcAKVjMTQ",
+              "authorChannelId": {
+                "value": "UCzb_f-CE0w84URDcAKVjMTQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T17:31:51Z",
+              "updatedAt": "2023-02-06T17:31:51Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "w6nw_PjejbEtfqib7KPzUBqPkGY",
+      "id": "Ugy1JUhDywdnE-ShKbl4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lsebeYKLFe3sy9x1kVSAk6XdGPQ",
+          "id": "Ugy1JUhDywdnE-ShKbl4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "Siempre que pienso que NCT ha llegado a un nivel estándar hacen algo todavía más impresionante, por eso me encantan. Siempre me sorprenden.<br>El performance, los vocales, rap, coreografía, concepto, y los instrumentales hipnóticos y experimentales. Son algo demasiado único.<br><br>Hacen algo diferente con cada regreso y aún así tienen tanta identidad musical que de inmediato sabes cuándo una canción es de NCT, simplemente impresionante",
+            "textOriginal": "Siempre que pienso que NCT ha llegado a un nivel estándar hacen algo todavía más impresionante, por eso me encantan. Siempre me sorprenden.\nEl performance, los vocales, rap, coreografía, concepto, y los instrumentales hipnóticos y experimentales. Son algo demasiado único.\n\nHacen algo diferente con cada regreso y aún así tienen tanta identidad musical que de inmediato sabes cuándo una canción es de NCT, simplemente impresionante",
+            "authorDisplayName": "PoliMint",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fwVzWqQkKdf9zdWUrjNNIHTrLpFVGPMLSEblBuRXNr3K8s39EXSoE2FcJA0kWzjysGR-SI2oYh0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgv1SGOm6QgyCDkkl_jCKiQ",
+            "authorChannelId": {
+              "value": "UCgv1SGOm6QgyCDkkl_jCKiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 46,
+            "publishedAt": "2023-02-06T03:53:35Z",
+            "updatedAt": "2023-02-06T03:54:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8bgC7sp-CxMVt7NAWGRPbjXfAuw",
+      "id": "UgxbzyPPaHWtlNb9Rnp4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7ltbC2mFyYzKE7XmG6t7CI1WqPU",
+          "id": "UgxbzyPPaHWtlNb9Rnp4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "NCTzen están haciendo un excelente trabajo, realmente lxs admiro mucho, son increíbles..... Sigamos apoyando esta obra de arte, vamos bastante bien :⁠-⁠D<br>Me siento tan orgullosx de ver cómo NCT está creciendo gracias a ustedes y al gran talento de ellos ( ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡",
+            "textOriginal": "NCTzen están haciendo un excelente trabajo, realmente lxs admiro mucho, son increíbles..... Sigamos apoyando esta obra de arte, vamos bastante bien :⁠-⁠D\nMe siento tan orgullosx de ver cómo NCT está creciendo gracias a ustedes y al gran talento de ellos ( ⁠◜⁠‿⁠◝⁠ ⁠)⁠♡",
+            "authorDisplayName": "Zat4nist4 NCTzen💚ARMY💜",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Zu_AKQlXsIByom4l2OYy0TRoQm0y85r6_QWMV4L_EvqKjK1P68z56Ct0kUwEYhLCcVFnzV6k=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHLKGFJTwRogmr5OKuff_UQ",
+            "authorChannelId": {
+              "value": "UCHLKGFJTwRogmr5OKuff_UQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 25,
+            "publishedAt": "2023-02-06T05:32:22Z",
+            "updatedAt": "2023-02-06T05:33:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kFyhfYye-E7YegJ7KDP5BwhQKqE",
+      "id": "Ugy5ux47htfMI7JJpcx4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ai7kw1jkpKDcg79nrv-56YnAsyA",
+          "id": "Ugy5ux47htfMI7JJpcx4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "Vamos NCTzen, sigamos apoyando a los chicos, se lo merecen, sigan haciendo stream!!",
+            "textOriginal": "Vamos NCTzen, sigamos apoyando a los chicos, se lo merecen, sigan haciendo stream!!",
+            "authorDisplayName": "ha3chan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Akv-LM8xEE7JHwnIP-4X5nXAsGPIsJQOyTptDq_7YLoSlUS7Ly3aAK9SWH7sShzmAykFSNVtvYU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqiBho5D108K2ZwGSl_Z39w",
+            "authorChannelId": {
+              "value": "UCqiBho5D108K2ZwGSl_Z39w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 10,
+            "publishedAt": "2023-02-06T19:17:54Z",
+            "updatedAt": "2023-02-06T19:17:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "swEqLRL1Qy6t3gdV0aG86g2Fy3o",
+      "id": "UgwYAjDYochi43acUeV4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "4giF4LV5dnZ1qIKb-Qgg_u1fnXo",
+          "id": "UgwYAjDYochi43acUeV4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "2000만뷰 까지 화이팅!!!!🔥",
+            "textOriginal": "2000만뷰 까지 화이팅!!!!🔥",
+            "authorDisplayName": "꺄르륵",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWnGfsY8ZUdwPbpE08YOdb5ri9B62hg7r1hxg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp72M-0MxJvgbkQWWBeRE5A",
+            "authorChannelId": {
+              "value": "UCp72M-0MxJvgbkQWWBeRE5A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 25,
+            "publishedAt": "2023-02-06T08:59:10Z",
+            "updatedAt": "2023-02-06T08:59:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "P3Ba-H1Jhm3Z7vV5wO3pAtrmRRY",
+      "id": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "w3N_fwYhxelTKO1V0-9dELCAWb0",
+          "id": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "They gave Taeil the screen time he deserves. Now we need more YUTAAA",
+            "textOriginal": "They gave Taeil the screen time he deserves. Now we need more YUTAAA",
+            "authorDisplayName": "지룩 Ji-look",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/5ZSgOivmtaziiQFIXuGYjBlc6EKyskGNZDnJm-SdEE8CjICtsxOQ4wODfu3n-2zEIBan53pfMNM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8kKDFhSh_uiGzXVTNwQgQQ",
+            "authorChannelId": {
+              "value": "UC8kKDFhSh_uiGzXVTNwQgQQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2147,
+            "publishedAt": "2023-01-30T14:49:45Z",
+            "updatedAt": "2023-01-30T14:49:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 14,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "O3t3-6DvzMm2ntpK-rMKiDjOVFo",
+            "id": "UgwScGVkA-LZHJ9kvUx4AaABAg.9lWH4fVdmiz9lnBtm3_NyB",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "I&#39;m crying fr they give him his full screen time when he&#39;s singing his lines",
+              "textOriginal": "I'm crying fr they give him his full screen time when he's singing his lines",
+              "parentId": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+              "authorDisplayName": "monochrome",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVf2akETvyRwS1rCi-7HZIY6DRkrC9MRQWvjMfokA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCGrOJjTYxtvI9NvKfsFAD_g",
+              "authorChannelId": {
+                "value": "UCGrOJjTYxtvI9NvKfsFAD_g"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 2,
+              "publishedAt": "2023-02-06T13:50:46Z",
+              "updatedAt": "2023-02-06T13:50:46Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "TPVpJME12Fnkx2f5as4cVEU5NWA",
+            "id": "UgwScGVkA-LZHJ9kvUx4AaABAg.9lWH4fVdmiz9llaslBAucz",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "NCTzenアイドルチャンプアプリをダウンロードして、ショーチャンピオンでNCTに投票してください。私たちは投票で2番目です。",
+              "textOriginal": "NCTzenアイドルチャンプアプリをダウンロードして、ショーチャンピオンでNCTに投票してください。私たちは投票で2番目です。",
+              "parentId": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+              "authorDisplayName": "Anya",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/wi0_okE_55MQRAltaldd19dfycZIEGWpi8PB1THtPaa5zNHsqnmKyrtHMExJkiBx50ZszxpKpw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC-1rzS_GP7Q6v9KzMmkoL6A",
+              "authorChannelId": {
+                "value": "UC-1rzS_GP7Q6v9KzMmkoL6A"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-05T22:59:20Z",
+              "updatedAt": "2023-02-05T22:59:20Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "8BActCYGvW-O1_xBRhRH3lz9NSI",
+            "id": "UgwScGVkA-LZHJ9kvUx4AaABAg.9lWH4fVdmiz9lkjocAGdWg",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@Vixx Exo Kick It? I don&#39;t thinks so<br>...I still remember how dissapointed he was after watching the music video because they didn&#39;t put in scenes of him in the rain. And he was soo looking forward to it.😔 They did the same to Taeil in &#39;2 Baddies&#39;.😒 Either way, SM sucks. They promote everyone else&#39;s solo activities except Yuta&#39;s...Like he&#39;s literally not more famous than the whole of NCT in Japan smh😒...",
+              "textOriginal": "@Vixx Exo Kick It? I don't thinks so\n...I still remember how dissapointed he was after watching the music video because they didn't put in scenes of him in the rain. And he was soo looking forward to it.😔 They did the same to Taeil in '2 Baddies'.😒 Either way, SM sucks. They promote everyone else's solo activities except Yuta's...Like he's literally not more famous than the whole of NCT in Japan smh😒...",
+              "parentId": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+              "authorDisplayName": "Sara Perčić",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXZY4PitIlTpsf5QkMM6CnMx4gqgsXKipZE_cdVVA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCiedKrL1RAklgrB-0DxTcNg",
+              "authorChannelId": {
+                "value": "UCiedKrL1RAklgrB-0DxTcNg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 8,
+              "publishedAt": "2023-02-05T14:58:10Z",
+              "updatedAt": "2023-02-05T15:03:54Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "gt8fVCuux5Y5uOhhze7d5rI9t8k",
+            "id": "UgwScGVkA-LZHJ9kvUx4AaABAg.9lWH4fVdmiz9ljsMhq8ZWK",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "AMEN.",
+              "textOriginal": "AMEN.",
+              "parentId": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+              "authorDisplayName": "fani",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/HT022rPcfl3WhTPw63_6gpq2tyLiV1POhW2YCVqT_XeG-e76A90lwsrFUKPNPBcFCGNA3vqB=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCNKUSKZO_-Q5BLxCQq6W1FA",
+              "authorChannelId": {
+                "value": "UCNKUSKZO_-Q5BLxCQq6W1FA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-05T06:53:38Z",
+              "updatedAt": "2023-02-05T06:53:38Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Cc0WMD7vONfcoCukfCkDgVTjFmQ",
+            "id": "UgwScGVkA-LZHJ9kvUx4AaABAg.9lWH4fVdmiz9ljla376Bl3",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@1 Track Simulation I totally agree. Him, Parker Hyoshin, Baekheun, and Doyoung are the cream of the crop! Taeil belongs in that group I mentioned. He&#39;s very talented!",
+              "textOriginal": "@1 Track Simulation I totally agree. Him, Parker Hyoshin, Baekheun, and Doyoung are the cream of the crop! Taeil belongs in that group I mentioned. He's very talented!",
+              "parentId": "UgwScGVkA-LZHJ9kvUx4AaABAg",
+              "authorDisplayName": "Kimsational32",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWQYVbfileOl06GgIGFNM9Ow-kC9LdUNCaID50gbNU=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCQCJTIDFnG1haYIpds96jMg",
+              "authorChannelId": {
+                "value": "UCQCJTIDFnG1haYIpds96jMg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-05T05:54:25Z",
+              "updatedAt": "2023-02-05T23:05:11Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qCr06uKSVg-2xMvYlL6T1DzRcaU",
+      "id": "UgxNGUNXbiYIEklwosJ4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "2ZDhSdEFJ_y3FT2uTm-d8J7y6dQ",
+          "id": "UgxNGUNXbiYIEklwosJ4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "hay grupos que se superan, pero la extremidad que sobrepasa nct127 es increible, sin duda el beat, base, letra, concepto y coreografia esta a otro nivel de lo que seria el &#39;kpop&#39;. nct siempre termina superando nuestras expectativas con pedazos de temas originales y pegadizos.",
+            "textOriginal": "hay grupos que se superan, pero la extremidad que sobrepasa nct127 es increible, sin duda el beat, base, letra, concepto y coreografia esta a otro nivel de lo que seria el 'kpop'. nct siempre termina superando nuestras expectativas con pedazos de temas originales y pegadizos.",
+            "authorDisplayName": "doiezch_",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXAoCZhMgohgQVVXpgn9CyQeTzskBc-sGONl0j_Kg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqgnv6K4yjl26oMeoPEQ7yQ",
+            "authorChannelId": {
+              "value": "UCqgnv6K4yjl26oMeoPEQ7yQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 20,
+            "publishedAt": "2023-02-06T08:10:07Z",
+            "updatedAt": "2023-02-06T08:10:07Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "T-1IlvaNXp6TPe37AL0H2cJNoQ8",
+      "id": "UgypNSKMRXbeonkMZUV4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tiTf_z-ceRYxejmiEunzAFqQWjU",
+          "id": "UgypNSKMRXbeonkMZUV4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "칠즈니들! 애들에게 쇼챔 1위 안겨주려면 시간이 급하니 지금당장 아챔에 가서 투표하셔야--!! 3시30분만에 투표 마감입니다!!!<br>To win on Show Champ, we need to vote on Idol Champ! The voting deadline is in 3hrs30mins!",
+            "textOriginal": "칠즈니들! 애들에게 쇼챔 1위 안겨주려면 시간이 급하니 지금당장 아챔에 가서 투표하셔야--!! 3시30분만에 투표 마감입니다!!!\nTo win on Show Champ, we need to vote on Idol Champ! The voting deadline is in 3hrs30mins!",
+            "authorDisplayName": "지구말로 나는사무이",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWYKhGwOfZbzbFl4JyX-_SORXLnSo0nVLTgb_5yDEY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxiBB1f_dXPjANSqIfpEg7w",
+            "authorChannelId": {
+              "value": "UCxiBB1f_dXPjANSqIfpEg7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 41,
+            "publishedAt": "2023-02-06T01:32:01Z",
+            "updatedAt": "2023-02-06T01:32:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vRNllvPhhDEG033Zlq8sHk5yt4Y",
+      "id": "Ugz0NYLKvQn1jb6Lh1p4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QDHRGrtnkt-OqUqqt7IaPJbNzYA",
+          "id": "Ugz0NYLKvQn1jb6Lh1p4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "La voz de Haechan es tan perfecta ^°^",
+            "textOriginal": "La voz de Haechan es tan perfecta ^°^",
+            "authorDisplayName": "𝐄𝐥𝐨𝐭𝐞 𝐨𝐟𝐢𝐜𝐢𝐚𝐥",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rumF3vK4rBvVUb90Bu6YkTTl6ZoNBy56wc8TAsKxXdgQ_u1RcUsaD_Pn6Z_-vTC40j_rtKNA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpdXxatkFnWSs06kUSvmKdg",
+            "authorChannelId": {
+              "value": "UCpdXxatkFnWSs06kUSvmKdg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 19,
+            "publishedAt": "2023-02-06T08:42:13Z",
+            "updatedAt": "2023-02-06T08:42:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-A9ra70_1vZoDHsOG3Hpq-MNzg0",
+      "id": "Ugyu0CKZOoFx3TmRdbN4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iwVj00VaFdNjO2AjWgnVJxB9PKg",
+          "id": "Ugyu0CKZOoFx3TmRdbN4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "AYYYOOO!! Fighting everyone! We can do this for our boysss!!",
+            "textOriginal": "AYYYOOO!! Fighting everyone! We can do this for our boysss!!",
+            "authorDisplayName": "Pretty PJs",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW0gboeGsv5y_hZ6MKx8-uFTC9SCA9rMAuJ0Mm0zhbgnkfo_ytnzM3jAX-Kx12E=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRfxOLeMnNseLH82rzj3Jpg",
+            "authorChannelId": {
+              "value": "UCRfxOLeMnNseLH82rzj3Jpg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 39,
+            "publishedAt": "2023-02-06T03:45:08Z",
+            "updatedAt": "2023-02-06T03:45:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W4weUqBasjaVuAJioAyuFiEqYbA",
+      "id": "Ugx53qQifomyCg8QQpN4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "H7n9iETWM3QhxHxVWjz_IBkVBFc",
+          "id": "Ugx53qQifomyCg8QQpN4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "Yuta, Johnny and Taeil getting the lines and screen time they deserve is what I wanna see😭",
+            "textOriginal": "Yuta, Johnny and Taeil getting the lines and screen time they deserve is what I wanna see😭",
+            "authorDisplayName": "Audrey",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rEdgSanJ037g1aQcefllPv6UXmcmd-6s9QZWsbBz30C4nU9tvI_gwTeJ_fl1pzoAqqfCCVyVrA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnkj0sOB_LuO8GM8YaAlvvw",
+            "authorChannelId": {
+              "value": "UCnkj0sOB_LuO8GM8YaAlvvw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 750,
+            "publishedAt": "2023-01-30T14:48:56Z",
+            "updatedAt": "2023-01-30T14:48:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 7,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "YPxy3mIKpTn9fmrsi1Du_iOpZ0w",
+            "id": "Ugx53qQifomyCg8QQpN4AaABAg.9lWGzfpQSQn9ld4XeHvoMF",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@Rupalirekha members with the bare mimimum normally are Johnny and Jungwoo, Yuta has been getting much better in these past comebacks, now Johnny and Jungwoo also getting sth decent in this MV. But of course all the Main Rappers and Main Vocals will always get the Most because that is their role in the group. I&#39;d rather see the positive evolution. There was zero evoltion for Taeil&#39;s parts, mostly some high pitch scream here and there and shameless screen time, and justice has been made in this MV. All the main vocals have their share, except Haechan linea and screentime is reduced compared to other MVs, but you nee+ to cut from someone else if they want to give more to others. There&#39;s not much one can do in a 3&#39;40 minutes long song. I&#39;m sure Yuta and Haechan will get more in the next comeback and then most probably Johnny, Jungwoo and Taeil parts will be reduced again",
+              "textOriginal": "@Rupalirekha members with the bare mimimum normally are Johnny and Jungwoo, Yuta has been getting much better in these past comebacks, now Johnny and Jungwoo also getting sth decent in this MV. But of course all the Main Rappers and Main Vocals will always get the Most because that is their role in the group. I'd rather see the positive evolution. There was zero evoltion for Taeil's parts, mostly some high pitch scream here and there and shameless screen time, and justice has been made in this MV. All the main vocals have their share, except Haechan linea and screentime is reduced compared to other MVs, but you nee+ to cut from someone else if they want to give more to others. There's not much one can do in a 3'40 minutes long song. I'm sure Yuta and Haechan will get more in the next comeback and then most probably Johnny, Jungwoo and Taeil parts will be reduced again",
+              "parentId": "Ugx53qQifomyCg8QQpN4AaABAg",
+              "authorDisplayName": "IreneSerrano",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/F3fIZwRRJfAnZf2EyUyuyoe_tC3bpZjhiIdSDRaHcYLJ6IRt3I4pqZqoQsaYSzcBftNo-fGDBg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC1I3KG89xeomygRXC0EfShQ",
+              "authorChannelId": {
+                "value": "UC1I3KG89xeomygRXC0EfShQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-02T15:34:02Z",
+              "updatedAt": "2023-02-02T15:34:02Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ox-zqq7x_vgsnnNnTxbDxu38HEc",
+            "id": "Ugx53qQifomyCg8QQpN4AaABAg.9lWGzfpQSQn9lcxjE1AA_x",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "Yuta is getting screentime and line in which alternate universe exactly? They did him so dirty again and here comes the fake narrative as if Yuta is not the member with the least bare minimum for the nth time now!",
+              "textOriginal": "Yuta is getting screentime and line in which alternate universe exactly? They did him so dirty again and here comes the fake narrative as if Yuta is not the member with the least bare minimum for the nth time now!",
+              "parentId": "Ugx53qQifomyCg8QQpN4AaABAg",
+              "authorDisplayName": "Rupalirekha",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/Xd4kgfIb-kGDUnlGIb3YyWHNzeht25qfQQIBIexWkUDm-2TJ9stSc8e5VKP7uvbUbnut0OZ6rg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC39_1p3EdbiUSOq143c-fQg",
+              "authorChannelId": {
+                "value": "UC39_1p3EdbiUSOq143c-fQg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-02-02T14:25:51Z",
+              "updatedAt": "2023-02-02T14:25:51Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "5vdkoVJzByHGxgcb5Hd0ANRklXo",
+            "id": "Ugx53qQifomyCg8QQpN4AaABAg.9lWGzfpQSQn9lbgcJAvF0F",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@Erica Cella i agree with you",
+              "textOriginal": "@Erica Cella i agree with you",
+              "parentId": "Ugx53qQifomyCg8QQpN4AaABAg",
+              "authorDisplayName": "Momo Hirai",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/7VFo7B7-MIx27f0J1qElGN4OrJz82DNDo4VDrcK3TiGSou521SbM9EddrzFOykep_HCuIrTsDA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCzq13XoSLo7CPoxQU_SApcg",
+              "authorChannelId": {
+                "value": "UCzq13XoSLo7CPoxQU_SApcg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-02-02T02:37:07Z",
+              "updatedAt": "2023-02-02T02:37:07Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "2RM_LkS_LkcMrirvkFIoMu3Sjso",
+            "id": "Ugx53qQifomyCg8QQpN4AaABAg.9lWGzfpQSQn9l_kpTEpEOj",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "Actually this MV has given Johnny and Taeil more lines and screentime than ever!!! Yuta is having more or less same as always here",
+              "textOriginal": "Actually this MV has given Johnny and Taeil more lines and screentime than ever!!! Yuta is having more or less same as always here",
+              "parentId": "Ugx53qQifomyCg8QQpN4AaABAg",
+              "authorDisplayName": "IreneSerrano",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/F3fIZwRRJfAnZf2EyUyuyoe_tC3bpZjhiIdSDRaHcYLJ6IRt3I4pqZqoQsaYSzcBftNo-fGDBg=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC1I3KG89xeomygRXC0EfShQ",
+              "authorChannelId": {
+                "value": "UC1I3KG89xeomygRXC0EfShQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 32,
+              "publishedAt": "2023-02-01T08:35:23Z",
+              "updatedAt": "2023-02-01T08:35:23Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "_l7OWzbqnpSNon0Y6LqlaNmxaeA",
+            "id": "Ugx53qQifomyCg8QQpN4AaABAg.9lWGzfpQSQn9lWNT8CroEg",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "Taeil and Johnny got really decent screen time and lines. Yuta is the problem. Literally three lines",
+              "textOriginal": "Taeil and Johnny got really decent screen time and lines. Yuta is the problem. Literally three lines",
+              "parentId": "Ugx53qQifomyCg8QQpN4AaABAg",
+              "authorDisplayName": "Erica Cella",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJV7XCeVitWzMhzf5AQHF2PfZr9TUPRTGsozAQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCjelXiyS41orbqyYYfqYVLQ",
+              "authorChannelId": {
+                "value": "UCjelXiyS41orbqyYYfqYVLQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 85,
+              "publishedAt": "2023-01-30T15:45:31Z",
+              "updatedAt": "2023-01-30T15:45:31Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yRrrAXs3xFKnmbAlLtUC-phbHas",
+      "id": "UgwZDBTD3LDbTafK3154AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "t2Yhb5u6UVV8h2vWdTEo39PcNYk",
+          "id": "UgwZDBTD3LDbTafK3154AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "As a fandom, we&#39;re pretty terrible at streaming haha. But I hope that we can view this enough to get them a win!",
+            "textOriginal": "As a fandom, we're pretty terrible at streaming haha. But I hope that we can view this enough to get them a win!",
+            "authorDisplayName": "centurión",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Ea9yp2GmaP0mN4DbF2lkNUDnvoUxzLoqxmLbia0S1fN3VdPk9f8FNkmSz1f-4BUxmPMCkuFBCg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCp15w7SFlgpNyq2VtRA2-eQ",
+            "authorChannelId": {
+              "value": "UCp15w7SFlgpNyq2VtRA2-eQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 42,
+            "publishedAt": "2023-02-06T07:19:53Z",
+            "updatedAt": "2023-02-06T07:19:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "nUF00E6TLbx42YKhI_B1C8W-KWw",
+            "id": "UgwZDBTD3LDbTafK3154AaABAg.9lmV9pF9k4n9lo7Z64CYQv",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "Yess",
+              "textOriginal": "Yess",
+              "parentId": "UgwZDBTD3LDbTafK3154AaABAg",
+              "authorDisplayName": "Ananda 아난다",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJX06EH6q2fCCGxejMrLh1PmbTQkAhIV0AU97Ikkhw=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC9VqNokTNT_83H0IAGG8OFg",
+              "authorChannelId": {
+                "value": "UC9VqNokTNT_83H0IAGG8OFg"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-02-06T22:32:06Z",
+              "updatedAt": "2023-02-06T22:32:06Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "pUH8AJMGAL8KByupFFUzEgRXsXM",
+            "id": "UgwZDBTD3LDbTafK3154AaABAg.9lmV9pF9k4n9lmVmSKPZHt",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "Exactly",
+              "textOriginal": "Exactly",
+              "parentId": "UgwZDBTD3LDbTafK3154AaABAg",
+              "authorDisplayName": "Teresa Haokip",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVU5NM2I-LcKor6asOyxyKF-kM-i6HqGZvlMQYMoCWr1WBDS6d09EX5mPe2FQBE=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC01_olux4LlCfIsUfYSQAJw",
+              "authorChannelId": {
+                "value": "UC01_olux4LlCfIsUfYSQAJw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 4,
+              "publishedAt": "2023-02-06T07:25:17Z",
+              "updatedAt": "2023-02-06T07:25:17Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VO9o4ri3O3d7z6JRmjWFxJZouow",
+      "id": "Ugzj2Bpj8XY0vqIol154AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "uOTBm-lYtEtrsqP6O7yeOt0be9M",
+          "id": "Ugzj2Bpj8XY0vqIol154AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "no se olviden de escuchar este temita por youtube que no pierden nada, además es de mucha ayuda para el strm ♡♡♡ tambien voten pliss",
+            "textOriginal": "no se olviden de escuchar este temita por youtube que no pierden nada, además es de mucha ayuda para el strm ♡♡♡ tambien voten pliss",
+            "authorDisplayName": "doiezch_",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXAoCZhMgohgQVVXpgn9CyQeTzskBc-sGONl0j_Kg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqgnv6K4yjl26oMeoPEQ7yQ",
+            "authorChannelId": {
+              "value": "UCqgnv6K4yjl26oMeoPEQ7yQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2023-02-06T05:57:20Z",
+            "updatedAt": "2023-02-06T05:57:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sE_HGgqXlLI4tfTE2J-d0X9QCI0",
+      "id": "Ugx9SYg62u8fWGwiryp4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hWAVhWj-FPF9S5FeVOMX15sZdyI",
+          "id": "Ugx9SYg62u8fWGwiryp4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "manifestando wins para  Ay-Yo, ya vote todo lo que pude",
+            "textOriginal": "manifestando wins para  Ay-Yo, ya vote todo lo que pude",
+            "authorDisplayName": "MaUrIcio MP 🗿",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/y39AjrIc1mxQz99_yaT7Cd9-jm1yIbd8CMwvAXJr-WsxZld_KcZZEcQHAWcedM5RrEJ_Zvjb0g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgvDifMbC8q7dCOYVc7a-Kg",
+            "authorChannelId": {
+              "value": "UCgvDifMbC8q7dCOYVc7a-Kg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 7,
+            "publishedAt": "2023-02-06T20:27:01Z",
+            "updatedAt": "2023-02-06T20:27:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iG-HrLMmEoCd3qGPdwNKjnRs1Tc",
+      "id": "Ugy1oibLqDfAwQTj_Ct4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eQxhEIIahAT8a33PyxrJUsSbRJ4",
+          "id": "Ugy1oibLqDfAwQTj_Ct4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "i recently started stanning nct and all i can say is that i deeply regret not doing it before. i always listened to their title tracks whenever they did a comeback but that was it. now that i know them better i notice how talented and incredible they all are. in such a little time they&#39;ve done a lot for me with their music and their amazing personalities. they&#39;re my angels 💚",
+            "textOriginal": "i recently started stanning nct and all i can say is that i deeply regret not doing it before. i always listened to their title tracks whenever they did a comeback but that was it. now that i know them better i notice how talented and incredible they all are. in such a little time they've done a lot for me with their music and their amazing personalities. they're my angels 💚",
+            "authorDisplayName": "d",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVPKZ2Sr3YkVwSeMl-WP-yuxDBLUMfXGgzYUovypA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRniIbuE-jwFKTFNTvIAz7w",
+            "authorChannelId": {
+              "value": "UCRniIbuE-jwFKTFNTvIAz7w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 12,
+            "publishedAt": "2023-02-06T02:27:40Z",
+            "updatedAt": "2023-02-06T02:27:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "iWwo4uIzm7fEPyrxNC4oQ-z4PW8",
+      "id": "UgzPF1AuQsyt0urS0fp4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rIQY2Ql8w6GLuCMSuWyXJagmkck",
+          "id": "UgzPF1AuQsyt0urS0fp4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "Not a Taeil stand but happy to see him getting more screen time. The same should happen for Yuta! They are all sooo  talented and it should be fair for everyone! Loved the song! 💚",
+            "textOriginal": "Not a Taeil stand but happy to see him getting more screen time. The same should happen for Yuta! They are all sooo  talented and it should be fair for everyone! Loved the song! 💚",
+            "authorDisplayName": "Daniela Aguilar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWyw0HBvgOKQ5ndmTQl-KmfzXKPSLmIkIlG0Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqUe_SuB5BXUGOWr5En8eFQ",
+            "authorChannelId": {
+              "value": "UCqUe_SuB5BXUGOWr5En8eFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 503,
+            "publishedAt": "2023-01-30T16:40:25Z",
+            "updatedAt": "2023-01-30T16:40:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      },
+      "replies": {
+        "comments": [
+          {
+            "kind": "youtube#comment",
+            "etag": "isBmcM0DJoK1A08PaCYZVjBCs2A",
+            "id": "UgzPF1AuQsyt0urS0fp4AaABAg.9lWTkFwqaR19lWb3n9iK_F",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@paxpab хоть кто-то это понимает. Группа большая, если они дают кому-то больше партий, то кто-то другой остаётся без партий. Юта здесь буквально исполняет тот же бридж, что и Тэиль. Это ли не признание Юты, как вокалиста?",
+              "textOriginal": "@paxpab хоть кто-то это понимает. Группа большая, если они дают кому-то больше партий, то кто-то другой остаётся без партий. Юта здесь буквально исполняет тот же бридж, что и Тэиль. Это ли не признание Юты, как вокалиста?",
+              "parentId": "UgzPF1AuQsyt0urS0fp4AaABAg",
+              "authorDisplayName": "ks_rainbear",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW5Z14CuKGH25_M67WUpmBBvCf5YgftLBTAJ7LWA24Vd8IscWZ1BG-6O5V2OyFD=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC-MAjncmxZOT_ZKQihmD0vA",
+              "authorChannelId": {
+                "value": "UC-MAjncmxZOT_ZKQihmD0vA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 3,
+              "publishedAt": "2023-01-30T17:53:08Z",
+              "updatedAt": "2023-01-30T17:53:08Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "Cln6EppijJhceToRjHTOj-275SI",
+            "id": "UgzPF1AuQsyt0urS0fp4AaABAg.9lWTkFwqaR19lWa2YW8jTt",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "@Colourful Soul they can&#39;t give the same amount of screentime to everyone, it depends of wich genre and line distribution they will have. Balad: more lines for vocalists. Hip Hop: mainly for rappers. R&amp;B: both rappers and vocalists. Etc",
+              "textOriginal": "@Colourful Soul they can't give the same amount of screentime to everyone, it depends of wich genre and line distribution they will have. Balad: more lines for vocalists. Hip Hop: mainly for rappers. R&B: both rappers and vocalists. Etc",
+              "parentId": "UgzPF1AuQsyt0urS0fp4AaABAg",
+              "authorDisplayName": "paxpab",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/F7PzhfQwA0OtkBsM8GrM6m7YeVjN0l_rStWFwsjW5nSJKuiYEpRxBUoIzEMRuQ4tbJvBwGzvDQ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UC6V6ObuLGq6o1EcXOafaJMA",
+              "authorChannelId": {
+                "value": "UC6V6ObuLGq6o1EcXOafaJMA"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 5,
+              "publishedAt": "2023-01-30T17:44:13Z",
+              "updatedAt": "2023-01-30T17:44:13Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "KZSRXWm-HY69_mtCuDg98VRSO3M",
+            "id": "UgzPF1AuQsyt0urS0fp4AaABAg.9lWTkFwqaR19lW_pG2Oj8W",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "yeah, they take it from Haechan and Jungwoo &#39;s screentime. I think Taeil will have a solo mini album before military service.",
+              "textOriginal": "yeah, they take it from Haechan and Jungwoo 's screentime. I think Taeil will have a solo mini album before military service.",
+              "parentId": "UgzPF1AuQsyt0urS0fp4AaABAg",
+              "authorDisplayName": "Nguyễn Văn Trung",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXpfnNGW56yShQ9T4I6J7XzVUB58oB7A-J7O1BZ=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCT-Yu6W-vw0b75zsZlzYifw",
+              "authorChannelId": {
+                "value": "UCT-Yu6W-vw0b75zsZlzYifw"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 0,
+              "publishedAt": "2023-01-30T17:42:16Z",
+              "updatedAt": "2023-01-30T17:42:16Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "vm2dfwCfVjf9z8xRq_Xtw2KX5fM",
+            "id": "UgzPF1AuQsyt0urS0fp4AaABAg.9lWTkFwqaR19lWXSnenpzj",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "At this point they aren&#39;t even trying, when they give to one they take from another...🤷🏽‍♀️",
+              "textOriginal": "At this point they aren't even trying, when they give to one they take from another...🤷🏽‍♀️",
+              "parentId": "UgzPF1AuQsyt0urS0fp4AaABAg",
+              "authorDisplayName": "Colourful Soul",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/pKHfWePhQAR3OJptopMMxw42G3zRi8J_B0EMvztY57yhSMKcMiCWSUxeAY4wmdKt0ci_GhP1=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCO-ByRseGTF748VPnIbbLOQ",
+              "authorChannelId": {
+                "value": "UCO-ByRseGTF748VPnIbbLOQ"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 12,
+              "publishedAt": "2023-01-30T17:12:51Z",
+              "updatedAt": "2023-01-30T17:12:51Z"
+            }
+          },
+          {
+            "kind": "youtube#comment",
+            "etag": "ai3i_gt_t1-9CNGMuUBAL_2GnL0",
+            "id": "UgzPF1AuQsyt0urS0fp4AaABAg.9lWTkFwqaR19lWXQboW2BK",
+            "snippet": {
+              "videoId": "R9XpA_zXDDI",
+              "textDisplay": "This! I was so excited to see Taeil finally getting screentime. SM stays sleeping on Yuta. We ALL want more Yuta",
+              "textOriginal": "This! I was so excited to see Taeil finally getting screentime. SM stays sleeping on Yuta. We ALL want more Yuta",
+              "parentId": "UgzPF1AuQsyt0urS0fp4AaABAg",
+              "authorDisplayName": "drea w",
+              "authorProfileImageUrl": "https://yt3.ggpht.com/5J_QJLQnOnATD_06pcvkwtOZMbwfWlv0KC9PvxOM7SFiq5uyV-OBzuxyQB68u-pEbylfV93bTA=s48-c-k-c0x00ffffff-no-rj",
+              "authorChannelUrl": "http://www.youtube.com/channel/UCVNgtLFbo7CZCFOCcGC-F0A",
+              "authorChannelId": {
+                "value": "UCVNgtLFbo7CZCFOCcGC-F0A"
+              },
+              "canRate": true,
+              "viewerRating": "none",
+              "likeCount": 28,
+              "publishedAt": "2023-01-30T17:12:34Z",
+              "updatedAt": "2023-01-30T17:12:34Z"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rvH-20n9E--DviP6N3kyI8A8-Og",
+      "id": "UgxyuKapm__kUCNA5xx4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "AVjDmTZSNJMw2jMUqSYrSL0G_oI",
+          "id": "UgxyuKapm__kUCNA5xx4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "The music is catchy, and the beat makes you want to dance.",
+            "textOriginal": "The music is catchy, and the beat makes you want to dance.",
+            "authorDisplayName": "Hinata ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kngXidzhTpcO4tCVA0EjhXJ98FKdYdQ3f35BRx36p6EpNRLKwiWKu75o4jMAdXzyPeoKT9eLOQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGprR7AO6M6KZk4TP4GmFpw",
+            "authorChannelId": {
+              "value": "UCGprR7AO6M6KZk4TP4GmFpw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 13,
+            "publishedAt": "2023-02-06T20:41:48Z",
+            "updatedAt": "2023-02-06T20:41:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "z7TXLO-wHOYZTXizNMJ5F0xp-ig",
+      "id": "UgzGFnMy4w0B_MXy3VR4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ytth5sMNk60XQKC10IQfpQMCfic",
+          "id": "UgzGFnMy4w0B_MXy3VR4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "¡Sigan reproduciendo el mv! ¡Vamos a darles los wins que se merecen!",
+            "textOriginal": "¡Sigan reproduciendo el mv! ¡Vamos a darles los wins que se merecen!",
+            "authorDisplayName": "Zennie - Ay-Yo - Best Friend Ever",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/vSzBZWO71MbOCaZpBrVnouGE8I69ZZ4VzOvkutt2Z73_vhmCO0e8FXVp9oummnzd2-XUrH81zA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCzv1KR42fvg7lUV-OmnbWgg",
+            "authorChannelId": {
+              "value": "UCzv1KR42fvg7lUV-OmnbWgg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-02-06T20:32:55Z",
+            "updatedAt": "2023-02-06T20:32:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "aQK9ymqOQeHQBZy7Po-9D70SPZA",
+      "id": "Ugxw47YxALYHz7pPb5Z4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "h2_3cahbg8iUkvqlhhXp6pou49o",
+          "id": "Ugxw47YxALYHz7pPb5Z4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "이 분들은 진짜 넘 잘생겼다 실력도 미쳤고...",
+            "textOriginal": "이 분들은 진짜 넘 잘생겼다 실력도 미쳤고...",
+            "authorDisplayName": "빠다코코넛",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWPoMOmBhXyS19AJZybsnzjRzytF4kaAzyGzdYVHQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCT8DypfbH_qdYN7gjI1CASg",
+            "authorChannelId": {
+              "value": "UCT8DypfbH_qdYN7gjI1CASg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-02-06T03:12:47Z",
+            "updatedAt": "2023-02-06T03:12:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TnXJ-Hm9HRR7Qo_FQbiqFl_uQRs",
+      "id": "UgxvBUILzET5Rs-sRJd4AaABAg",
+      "snippet": {
+        "videoId": "R9XpA_zXDDI",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "pb5a8Aq3A1uC4TmgDun3t6FFNm4",
+          "id": "UgxvBUILzET5Rs-sRJd4AaABAg",
+          "snippet": {
+            "videoId": "R9XpA_zXDDI",
+            "textDisplay": "come on people we want to see our boys win that trophy, we have to do this for them!! I believe its possible for us to win this!! Push through people we came a long way and we can do this!! FIGHTING!!",
+            "textOriginal": "come on people we want to see our boys win that trophy, we have to do this for them!! I believe its possible for us to win this!! Push through people we came a long way and we can do this!! FIGHTING!!",
+            "authorDisplayName": "Pretty PJs",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW0gboeGsv5y_hZ6MKx8-uFTC9SCA9rMAuJ0Mm0zhbgnkfo_ytnzM3jAX-Kx12E=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRfxOLeMnNseLH82rzj3Jpg",
+            "authorChannelId": {
+              "value": "UCRfxOLeMnNseLH82rzj3Jpg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-02-06T14:53:54Z",
+            "updatedAt": "2023-02-06T14:53:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

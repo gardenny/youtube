@@ -5,45 +5,41 @@ export default class Youtube {
     this.apiClient = apiClient; // 외부로부터 주입 받은 클라이언트
   }
   async search(keyword) {
-    return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+    return keyword ? this.#searchByKeyword(keyword) : this.#mostPoploar();
   }
 
   async channelImageURL(id) {
     return this.apiClient //
-      .channels({ params: { part: 'snippet', id } })
+      .channels({ params: { part: 'snippet,statistics', id } })
       .then(response => response.data.items[0].snippet.thumbnails.default.url);
   }
 
-  async getVideoInfo(id) {
-    // debugger;
-    return this.apiClient
-      .videos({
-        params: {
-          part: 'snippet,statistics',
-          id,
-          type: 'video',
-          maxResults: 25,
-          regionCode: 'KR',
-        },
-      })
-      .then(response => response.data.items);
-  }
-
   async relatedVideos(id) {
-    const idList = [];
-    const videoId = await this.apiClient
+    return this.apiClient
       .search({
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 25,
+          maxResults: 20,
           regionCode: 'KR',
           relatedToVideoId: id,
         },
       })
-      .then(response => response.data.items.map(item => `&id=${item.id.videoId}`));
-    idList.push(videoId.join(''));
-    return this.getVideoInfo(idList.join(''));
+      .then(response => response.data.items.map(item => ({ ...item, id: item.id.videoId })));
+  }
+
+  async commentThreads(id) {
+    return this.apiClient
+      .comments({
+        params: {
+          part: 'snippet',
+          order: 'relevance',
+          videoId: id,
+          maxResults: 20,
+        },
+      })
+      .then(response => response.data.items)
+      .then(items => items.map(item => item.snippet.topLevelComment.snippet));
   }
 
   async #searchByKeyword(keyword) {
@@ -54,7 +50,7 @@ export default class Youtube {
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 25,
+          maxResults: 20,
           regionCode: 'KR',
           q: keyword,
         },
@@ -62,13 +58,13 @@ export default class Youtube {
       .then(response => response.data.items.map(item => ({ ...item, id: item.id.videoId })));
   }
 
-  async #mostPopular() {
+  async #mostPoploar() {
     return this.apiClient
       .videos({
         params: {
-          part: 'snippet',
+          part: 'snippet,statistics',
           chart: 'mostPopular',
-          maxResults: 25,
+          maxResults: 20,
           regionCode: 'KR',
         },
       })

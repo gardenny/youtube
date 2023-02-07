@@ -12,8 +12,6 @@ export default function RelatedVideos({ id }) {
     () => youtube.relatedVideos(id),
     { staleTime: 1000 * 60 * 5 }
   );
-  // console.log(videos && videos.map(video => youtube.getVideoInfo(video.id)));
-  console.log(videos);
 
   return (
     <>

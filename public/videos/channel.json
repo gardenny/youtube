@@ -1,6 +1,6 @@
 {
   "kind": "youtube#channelListResponse",
-  "etag": "eAoHfKyR87dEmfnDG8xn116eLj8",
+  "etag": "mb38BBBxEMB7Gfi_84_CjTos1hk",
   "pageInfo": {
     "totalResults": 1,
     "resultsPerPage": 5
@@ -8,7 +8,7 @@
   "items": [
     {
       "kind": "youtube#channel",
-      "etag": "oHvW4SVZj3LqrIo75AKVHxxEKOc",
+      "etag": "gKF-JJXF7sTW7E2vcmR7byVQd88",
       "id": "UCkbJc8jMcTXwhtmN5VMwfXg",
       "snippet": {
         "title": "JTBC Drama",
@@ -37,6 +37,12 @@
           "description": "JTBC Drama 의 모든 것!\n\nhttp://jtbc.joins.com"
         },
         "country": "KR"
+      },
+      "statistics": {
+        "viewCount": "5134769712",
+        "subscriberCount": "4710000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "27281"
       }
     }
   ]
