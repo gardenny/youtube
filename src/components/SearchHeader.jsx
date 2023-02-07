@@ -1,12 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router-dom';
 
-import trigger from '../icons/trigger.svg';
-import logo from '../icons/logo.svg';
-import search from '../icons/search.svg';
-import make from '../icons/make.svg';
-import notice from '../icons/notice.svg';
-
 export default function SearchHeader() {
   const [text, setText] = useState('');
   const navigate = useNavigate();
@@ -24,9 +18,9 @@ export default function SearchHeader() {
   return (
     <header className="sticky top-0 z-10 w-full flex flex-col justify-between gap-3 sm:flex-row items-center bg-black p-4">
       <div className="self-baseline sm:self-auto flex gap-x-3">
-        <img src={trigger} alt="menu" />
+        <img src={'/icons/trigger.svg'} alt="menu" />
         <Link to={'/'} className="flex items-center">
-          <img src={logo} alt="YouTube" />
+          <img src={'/icons/logo.svg'} alt="YouTube" />
         </Link>
       </div>
       <form onSubmit={handleSubmit} className="w-full sm:w-6/12 2xl:w-4/12 h-10 flex justify-center">
@@ -38,12 +32,12 @@ export default function SearchHeader() {
           onChange={handleChagne}
         />
         <button className="px-5 bg-neutral-800 border border-l-0 border-neutral-700 rounded-r-full" type="submit">
-          <img src={search} alt="search" />
+          <img src={'/icons/search.svg'} alt="search" />
         </button>
       </form>
       <div className="flex gap-x-3 absolute right-3 sm:static">
-        <img src={make} alt="make" />
-        <img src={notice} alt="notice" />
+        <img src={'/icons/make.svg'} alt="make" />
+        <img src={'/icons/notice.svg'} alt="notice" />
         <a className="w-8 h-8" href="https://github.com/IMJOne" target="_blank" rel="noopener noreferrer">
           <img className="w-full rounded-full" src="/avatar.jpg" alt="avatar" />
         </a>

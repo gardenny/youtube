@@ -4,9 +4,8 @@ import formatAgo from '../util/date';
 
 export default function VideoCard({ video, type }) {
   const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
-
-  const navigate = useNavigate();
   const isList = type === 'list';
+  const navigate = useNavigate();
 
   return (
     <li

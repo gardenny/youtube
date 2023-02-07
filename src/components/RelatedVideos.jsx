@@ -2,6 +2,7 @@ import React from 'react';
 import { useQuery } from '@tanstack/react-query';
 
 import { useYoutubeApi } from '../context/YoutubeApiContext';
+import LoadingSpinner from './LoadingSpinner';
 import VideoCard from '../components/VideoCard';
 
 // prettier-ignore
@@ -15,7 +16,7 @@ export default function RelatedVideos({ id }) {
 
   return (
     <>
-      {isLoading && <p>Loading...</p>}
+      {isLoading && <LoadingSpinner />}
       {error && <p>Error ❌</p>}
       {videos && (
         <ul>
