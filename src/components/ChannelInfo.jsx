@@ -4,12 +4,7 @@ import { useYoutubeApi } from '../context/YoutubeApiContext';
 
 export default function ChannelInfo({ id, name }) {
   const { youtube } = useYoutubeApi();
-  const { data: url } = useQuery(
-    // prettier-ignore
-    ['channel', id],
-    () => youtube.channelImageURL(id),
-    { staleTime: 1000 * 60 * 5 }
-  );
+  const { data: url } = useQuery(['channel', id], () => youtube.channelImageURL(id), { staleTime: 1000 * 60 * 5 });
 
   return (
     <div className="flex flex-col xl:flex-row justify-between items-baseline xl:items-center">

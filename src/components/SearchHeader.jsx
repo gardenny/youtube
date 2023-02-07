@@ -3,8 +3,8 @@ import { Link, useNavigate, useParams } from 'react-router-dom';
 
 export default function SearchHeader() {
   const [text, setText] = useState('');
-  const navigate = useNavigate();
   const { keyword } = useParams();
+  const navigate = useNavigate();
 
   const handleChagne = e => setText(e.target.value);
   const handleSubmit = e => {

@@ -1,7 +1,8 @@
 import React from 'react';
 import { useQuery } from '@tanstack/react-query';
-
 import { useYoutubeApi } from '../context/YoutubeApiContext';
+
+import NotFound from '../pages/NotFound';
 import LoadingSpinner from './LoadingSpinner';
 import VideoCard from '../components/VideoCard';
 
@@ -17,7 +18,7 @@ export default function RelatedVideos({ id }) {
   return (
     <>
       {isLoading && <LoadingSpinner />}
-      {error && <p>Error ❌</p>}
+      {error && <NotFound />}
       {videos && (
         <ul>
           {videos.map((video, index) => (
