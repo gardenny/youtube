@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useParams } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 import { useYoutubeApi } from '../context/YoutubeApiContext';
@@ -9,6 +9,7 @@ import NotFound from './NotFound';
 import VideoCard from '../components/VideoCard';
 
 export default function Videos() {
+  // React query
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
   const {
@@ -18,6 +19,12 @@ export default function Videos() {
   } = useQuery(['videos', keyword], () => youtube.search(keyword), {
     staleTime: 1000 * 60, // 받아온 데이터를 1분동안 캐싱
   });
+
+  // Set page title
+  useEffect(() => {
+    const pageTitle = document.querySelector('title');
+    pageTitle.innerText = 'YouTube';
+  }, []);
 
   return (
     <section className="flex p-4">

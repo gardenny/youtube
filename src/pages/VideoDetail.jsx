@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useQuery } from '@tanstack/react-query';
 
@@ -13,12 +13,18 @@ export default function VideoDetail() {
   const {
     state: { video },
   } = useLocation();
+
   const { youtube } = useYoutubeApi();
   const { data: comments } = useQuery(['comments', video], () => youtube.commentThreads(video.id), {
     staleTime: 1000 * 60, // 받아온 데이터를 1분동안 캐싱
   });
-
   const { title, channelId, channelTitle, publishedAt, description } = video.snippet;
+
+  // 페이지 제목 변경
+  useEffect(() => {
+    const pageTitle = document.querySelector('title');
+    pageTitle.innerText = `${title} - YouTube`;
+  }, [title]);
 
   return (
     <section className="flex flex-col lg:flex-row gap-6 p-6 2xl:px-24">
