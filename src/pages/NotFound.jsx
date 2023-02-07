@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 
 export default function NotFound() {
   return (
-    <div className="h-screen flex flex-col gap-y-10 justify-center items-center px-4">
+    <div className="w-screen h-screen flex flex-col gap-y-10 justify-center items-center px-4">
       <BiErrorCircle className="text-9xl text-red-500" />
       <h1 className="text-4xl font-bold text-center leading-normal">
         요청하신 페이지를

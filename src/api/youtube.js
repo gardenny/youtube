@@ -10,7 +10,7 @@ export default class Youtube {
 
   async channelImageURL(id) {
     return this.apiClient //
-      .channels({ params: { part: 'snippet,statistics', id } })
+      .channels({ params: { part: 'snippet', id } })
       .then(response => response.data.items[0].snippet.thumbnails.default.url);
   }
 
@@ -20,7 +20,7 @@ export default class Youtube {
         params: {
           part: 'snippet',
           type: 'video',
-          maxResults: 20,
+          maxResults: 30,
           regionCode: 'KR',
           relatedToVideoId: id,
         },
@@ -62,7 +62,7 @@ export default class Youtube {
     return this.apiClient
       .videos({
         params: {
-          part: 'snippet,statistics',
+          part: 'snippet',
           chart: 'mostPopular',
           maxResults: 20,
           regionCode: 'KR',
