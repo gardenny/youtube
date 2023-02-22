@@ -38,8 +38,7 @@ export default class Youtube {
           maxResults: 20,
         },
       })
-      .then(response => response.data.items)
-      .then(items => items.map(item => item.snippet.topLevelComment.snippet));
+      .then(response => response.data.items.map(item => item.snippet.topLevelComment.snippet));
   }
 
   async #searchByKeyword(keyword) {
