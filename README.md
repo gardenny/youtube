@@ -38,7 +38,7 @@ YouTube의 핵심 기능인 인기 동영상 및 댓글 목록, 동영상 검색
 
 ## 💻 소스 코드
 
-전체 코드 보러 가기 👉 [Notion](https://imjone.notion.site/Youtube-ad0edcc0e5924199a9e4962f6c298b9b)
+전체 코드 보러 가기 👉 [Notion](https://imjone.notion.site/YouTube-ad0edcc0e5924199a9e4962f6c298b9b?pvs=4)
 
 ### 📍 API 요청 매개변수 정의
 
